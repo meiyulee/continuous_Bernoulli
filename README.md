@@ -1,1 +1,2 @@
-# statistics_wzu_2016
+# Continuous Bernoulli distribution
+## simulator and test statistic
