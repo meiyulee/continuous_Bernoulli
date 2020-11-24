@@ -14,7 +14,7 @@
 *****
 # book and computer program
 
-The programs provide the sufficient statistic, the point estimator, the test statistic, the goodness of fit, the confidence inteval, and one-way analysis of continuous bernoulli distribution. Of course, we can extend to **continuous binomial distribution** and **continuous trinomial distribution**.
+The programs provide the sufficient statistic, the point estimator, the test statistic, the goodness of fit, the confidence inteval, and one-way analysis of continuous bernoulli distribution. Of course, we extend to **continuous binomial distribution** and **continuous trinomial distribution**.
 
 ## Free book
 
