@@ -1,5 +1,5 @@
-![cover.jpg](https://i.loli.net/2020/11/24/V135WLJrsKMUn8H.jpg)
-# Continuous Bernoulli distribution---simulator and test statistic
+![](https://i.loli.net/2020/11/24/V135WLJrsKMUn8H.jpg)
+
 ## Kuan-Sian Wang, Mei-Yu Lee
 published on Nov. 22, 2020.
 
