@@ -3,6 +3,7 @@
 ![](https://img.shields.io/github/forks/meiyulee/continuous_Bernoulli)  ![](https://img.shields.io/github/v/release/meiyulee/continuous_bernoulli?include_prereleases) ![](https://img.shields.io/badge/book-free-green)
 
 > Authors: Kuan-Sian Wang; Mei-Yu Lee
+
 > published on Nov. 22, 2020
 
 |        |      Feature         | 
