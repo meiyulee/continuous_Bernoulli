@@ -4,6 +4,12 @@ published on Nov. 22, 2020.
 
 ![](https://img.shields.io/github/forks/meiyulee/continuous_Bernoulli)  ![](https://img.shields.io/github/v/release/meiyulee/continuous_bernoulli?include_prereleases) ![](https://img.shields.io/badge/book-free-green)
 
+Keyword:  
+![](https://img.shields.io/static/v1?label=distribution&message=continuous_bernoulli&color=yellow)  ![](https://img.shields.io/static/v1?label=distribution&message=continuous_binomial&color=yellow)  ![](https://img.shields.io/static/v1?label=distribution&message=continuous_trinomial&color=yellow) 
+![](https://img.shields.io/static/v1?label=statistics&message=sufficient_statistic&color=yellow)  ![](https://img.shields.io/static/v1?label=statistics&message=test_statistic&color=yellow)  ![](https://img.shields.io/static/v1?label=statistics&message=confidence_interval&color=yellow)  ![](https://img.shields.io/static/v1?label=statistics&message=goodness_of_fit&color=yellow)  ![](https://img.shields.io/static/v1?label=statistics&message=point_estimator&color=yellow) ![](https://img.shields.io/static/v1?label=statistics&message=one-way&color=yellow)
+
+
+![](https://img.shields.io/static/v1?label=application&message=deep_learning&color=9cf)
 
 There are 13 exe programs and code files. All of them need to be in C:\C_Bernoulli
 
