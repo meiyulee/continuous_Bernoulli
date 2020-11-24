@@ -13,6 +13,8 @@ published on Nov. 22, 2020.
 | 4      | provide free book, exe, code|
 *****
 
+![](https://i.loli.net/2020/11/24/VLMewfnc9Qsp7N3.jpg)
+
 The programs provide the sufficient statistic, the point estimator, the test statistic, the goodness of fit, the confidence inteval, and one-way analysis of continuous bernoulli distribution. Of course, we can extend to **continuous binomial distribution** and **continuous trinomial distribution**.
 
 For the mathematic derivation, you can read the pdf of free book on [Free-ebook.net](https://www.free-ebooks.net/computer-sciences-textbooks/Continuous-Bernoulli-distribution-simulator-and-test-statistic). 
@@ -33,9 +35,13 @@ For the mathematic derivation, you can read the pdf of free book on [Free-ebook.
 
 There are 13 computer programs to compute the probability distribution and testing and confidence interval, those can help reader to get the probability distribution and do the statistical analysis. The 13 computer programs are in the folder named as "code". After you download, all of them need to be in C:\C_Bernoulli
 
+The programs contains the simulator of probability distribution(1~4), the statistic analysis(5~12), and the probability distribution after transformation(13).
+
 ### the software example
 
 1. run C:\C_Bernoulli\C_Bernoulli_01.exe
 
 ![cb01.gif](https://i.loli.net/2020/11/24/aT6fOhkuydSHGRn.gif)
+
+2. run C:\C_Bernoulli\C_Bernoulli_01.exe
 
