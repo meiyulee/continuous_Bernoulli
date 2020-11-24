@@ -4,7 +4,7 @@ published on Nov. 22, 2020.
 
 There are 13 exe programs and code files. All of them need to be in C:\C_Bernoulli
 
-| Feature        | Are           | 
+| Feature                       | 
 | ------------- |:-------------:|
 | 1      | continuous bernoulli distribution | 
 | 2      | continuous binomial distribution  | 
