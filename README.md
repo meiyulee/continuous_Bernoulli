@@ -1,10 +1,8 @@
 ![](https://i.loli.net/2020/11/24/V135WLJrsKMUn8H.jpg)
 
-## Kuan-Sian Wang, Mei-Yu Lee
-published on Nov. 22, 2020.
-
 ![](https://img.shields.io/github/forks/meiyulee/continuous_Bernoulli)  ![](https://img.shields.io/github/v/release/meiyulee/continuous_bernoulli?include_prereleases) ![](https://img.shields.io/badge/book-free-green)
 
+> published on Nov. 22, 2020
 
 |        |      Feature         | 
 | ------------- |:--------------|
@@ -14,8 +12,11 @@ published on Nov. 22, 2020.
 | 4      | provide free book, exe, code|
 
 *****
+# book and computer program
 
 The programs provide the sufficient statistic, the point estimator, the test statistic, the goodness of fit, the confidence inteval, and one-way analysis of continuous bernoulli distribution. Of course, we can extend to **continuous binomial distribution** and **continuous trinomial distribution**.
+
+## Free book
 
 For the mathematic derivation, you can read the pdf of free book on [Free-ebook.net](https://www.free-ebooks.net/computer-sciences-textbooks/Continuous-Bernoulli-distribution-simulator-and-test-statistic). 
 
@@ -31,13 +32,23 @@ For the mathematic derivation, you can read the pdf of free book on [Free-ebook.
 ##### Chapter 9, The Continuous Trinomial distribution and trial number=1
 ##### Chapter 10, The Continuous Trinomial distribution and trial number=n
 
-*******
+## computer programs
 
-There are 13 computer programs to compute the probability distribution and testing and confidence interval, those can help reader to get the probability distribution and do the statistical analysis. The 13 computer programs are in the folder named as "code_and_exe". After you download, all of them need to be in C:\C_Bernoulli
+### Content
 
-The programs contains the simulator of probability distribution(1-4), the statistic analysis(5-12), and the probability distribution after transformation(13).
+There are 13 computer programs to compute the probability distribution and testing and confidence interval, those can help reader to get the probability distribution and do the statistical analysis. 
 
-### the software example
+### download location
+folder name: code_and_exe
+folder name: document
+
+### Install
+1. the exe files have to run in C:\C_Bernoulli
+2. put the exe files in C:\C_Bernoulli
+3. click the exe file to run.
+
+### Usage
+The programs contains the simulator of probability distribution(1-4), the statistic analysis(5-12), and the probability distribution after transformation(13). For example,
 
 1. run C:\C_Bernoulli\C_Bernoulli_01.exe
 
