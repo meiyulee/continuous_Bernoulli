@@ -13,7 +13,7 @@ There are 13 computer programs to compute the probability distribution and testi
 | 3      | the importance of those distributions. They are used in <br>  ![](https://img.shields.io/static/v1?label=application&message=deep_learning&color=9cf)  ![](https://img.shields.io/static/v1?label=application&message=variational_autoencoder&color=9cf)  |
 
 
-The programs provide coders or users the sufficient statistic, the point estimator, the test statistic, the goodness of fit, the confidence inteval, and one-way analysis of continuous bernoulli distribution. Of course, we can extend to continuous binomial distribution and continuous trinomial distribution.
+The programs provide the sufficient statistic, the point estimator, the test statistic, the goodness of fit, the confidence inteval, and one-way analysis of continuous bernoulli distribution. Of course, we can extend to **continuous binomial distribution** and **continuous trinomial distribution**.
 
 For the mathematic derivation, you can read the pdf of free book on [Free-ebook.net](https://www.free-ebooks.net/computer-sciences-textbooks/Continuous-Bernoulli-distribution-simulator-and-test-statistic). 
 
