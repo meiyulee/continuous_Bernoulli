@@ -2,6 +2,9 @@
 ## Kuan-Sian Wang, Mei-Yu Lee
 published on Nov. 22, 2020.
 
+![](https://img.shields.io/github/forks/meiyulee/continuous_Bernoulli)
+
+
 There are 13 exe programs and code files. All of them need to be in C:\C_Bernoulli
 
 |        |      Feature         | 
