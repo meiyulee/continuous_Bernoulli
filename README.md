@@ -39,8 +39,8 @@ For the mathematic derivation, you can read the pdf of free book on [Free-ebook.
 There are 13 computer programs to compute the probability distribution and testing and confidence interval, those can help reader to get the probability distribution and do the statistical analysis. 
 
 ### download location
-folder name: code_and_exe
-folder name: document
+* folder name: code_and_exe
+* folder name: document
 
 ### Install
 1. the exe files have to run in C:\C_Bernoulli
