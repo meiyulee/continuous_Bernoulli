@@ -42,6 +42,9 @@ There are 13 computer programs to compute the probability distribution and testi
 * folder name: code_and_exe
 * folder name: document
 
+There are two documents, simple and detailed descriptions, of the computer programs in the document folder.
+The codes and exe files are in the code_and_exe folder.
+
 ### Install
 1. the exe files have to run in C:\C_Bernoulli
 2. drop the exe files into C:\C_Bernoulli
