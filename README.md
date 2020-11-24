@@ -44,7 +44,7 @@ There are 13 computer programs to compute the probability distribution and testi
 
 ### Install
 1. the exe files have to run in C:\C_Bernoulli
-2. put the exe files in C:\C_Bernoulli
+2. drop the exe files into C:\C_Bernoulli
 3. click the exe file to run.
 
 ### Usage
