@@ -18,14 +18,14 @@ The programs provide coders or users the sufficient statistic, the point estimat
 For the mathematic derivation, you can read the pdf of free book on [Free-ebook.net](https://www.free-ebooks.net/computer-sciences-textbooks/Continuous-Bernoulli-distribution-simulator-and-test-statistic). 
 
 ### Contents
-#####Chapter 1, The Continuous Bernoulli distribution
-#####Chapter 2, The sufficient statistic of Continuous Bernoulli distribution
-#####Chapter 3, The point estimator of Continuous Bernoulli distribution
-#####Chapter 4, The test statistic of Continuous Bernoulli distribution
-#####Chapter 5, The confidence interval of Continuous Bernoulli distribution
-#####Chapter 6, The test statistic and confidence interval of two Continuous Bernoulli populations
-#####Chapter 7, Goodness of fit about Continuous Bernoulli distribution
-#####Chapter 8, One way analysis when population is Continuous Bernoulli distribution
-#####Chapter 9, The Continuous Trinomial distribution and trial number=1
-#####Chapter 10, The Continuous Trinomial distribution and trial number=n
+##### Chapter 1, The Continuous Bernoulli distribution
+##### Chapter 2, The sufficient statistic of Continuous Bernoulli distribution
+##### Chapter 3, The point estimator of Continuous Bernoulli distribution
+##### Chapter 4, The test statistic of Continuous Bernoulli distribution
+##### Chapter 5, The confidence interval of Continuous Bernoulli distribution
+##### Chapter 6, The test statistic and confidence interval of two Continuous Bernoulli populations
+##### Chapter 7, Goodness of fit about Continuous Bernoulli distribution
+##### Chapter 8, One way analysis when population is Continuous Bernoulli distribution
+##### Chapter 9, The Continuous Trinomial distribution and trial number=1
+##### Chapter 10, The Continuous Trinomial distribution and trial number=n
 
