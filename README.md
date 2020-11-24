@@ -1,3 +1,4 @@
+![cover.jpg](https://i.loli.net/2020/11/24/V135WLJrsKMUn8H.jpg)
 # Continuous Bernoulli distribution---simulator and test statistic
 ## Kuan-Sian Wang, Mei-Yu Lee
 published on Nov. 22, 2020.
@@ -11,9 +12,8 @@ published on Nov. 22, 2020.
 | 2      | provide the statistical inference of continuous bernoulli distribution. <br> ![](https://img.shields.io/static/v1?label=statistics&message=sufficient_statistic&color=yellow)  ![](https://img.shields.io/static/v1?label=statistics&message=test_statistic&color=yellow)  ![](https://img.shields.io/static/v1?label=statistics&message=confidence_interval&color=yellow)  ![](https://img.shields.io/static/v1?label=statistics&message=goodness_of_fit&color=yellow)  ![](https://img.shields.io/static/v1?label=statistics&message=point_estimator&color=yellow) ![](https://img.shields.io/static/v1?label=statistics&message=one-way&color=yellow)  | 
 | 3      | the importance of those distributions. They are used in <br>  ![](https://img.shields.io/static/v1?label=application&message=deep_learning&color=9cf)  ![](https://img.shields.io/static/v1?label=application&message=variational_autoencoder&color=9cf)  |
 | 4      | provide free book, exe, code|
-*****
 
-![](https://i.loli.net/2020/11/24/VLMewfnc9Qsp7N3.jpg)
+*****
 
 The programs provide the sufficient statistic, the point estimator, the test statistic, the goodness of fit, the confidence inteval, and one-way analysis of continuous bernoulli distribution. Of course, we can extend to **continuous binomial distribution** and **continuous trinomial distribution**.
 
