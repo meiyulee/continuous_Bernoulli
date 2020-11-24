@@ -4,7 +4,7 @@ Those programs must install the subdirectory **C:\C_Bernoulli**.
 
 The analysis method is new computing skill of probability distribution simulator which can develope the test statistic for a specific probability distribution in easily.
 
-The document is **C_Bernoulli_content.pdf**, and source code of program and execution file as follow.
+The document is **C_bernoulli_software_package.pdf**, and source code of program and execution file as follow.
 
 *****
 
