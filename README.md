@@ -49,11 +49,11 @@ The codes and exe files are in the code_and_exe folder.
 * folder name: document
 
 ### Install
-1. the exe files have to run in C:\C_Bernoulli
-2. drop the exe files into C:\C_Bernoulli
-3. click the exe file to run.
+
+Since the exe files have to run in C:\C_Bernoulli, drop the exe files into C:\C_Bernoulli. Then click the exe file to run.
 
 ### Usage
+
 The programs contains the simulator of probability distribution(1-4), the statistic analysis(5-12), and the probability distribution after transformation(13). For example,
 
 1. run C:\C_Bernoulli\C_Bernoulli_01.exe
