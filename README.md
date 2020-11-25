@@ -1,6 +1,6 @@
 ![](https://i.loli.net/2020/11/24/V135WLJrsKMUn8H.jpg)
 
-![](https://img.shields.io/github/forks/meiyulee/continuous_Bernoulli)  ![](https://img.shields.io/github/v/release/meiyulee/continuous_bernoulli?include_prereleases) ![](https://img.shields.io/badge/book-free-green)
+![](https://img.shields.io/github/forks/meiyulee/continuous_Bernoulli)  ![](https://img.shields.io/github/v/release/meiyulee/continuous_bernoulli?include_prereleases) ![](https://img.shields.io/badge/book-free-green)  ![GitHub search hit counter](https://img.shields.io/github/search/meiyulee/continuous_bernoulli/goto)
 
 > Authors: Kuan-Sian Wang; Mei-Yu Lee
 
@@ -8,7 +8,7 @@
 
 |        |      Feature         | 
 | ------------- |:--------------|
-| 1      | provide the continuous bernoulli distribution and its extendion of distribution. <br> ![](https://img.shields.io/static/v1?label=distribution&message=continuous_bernoulli&color=yellow)  ![](https://img.shields.io/static/v1?label=distribution&message=continuous_binomial&color=yellow)  ![](https://img.shields.io/static/v1?label=distribution&message=continuous_trinomial&color=yellow) | 
+| 1     | provide the continuous bernoulli distribution and its extendion of distribution. <br> ![](https://img.shields.io/static/v1?label=distribution&message=continuous_bernoulli&color=yellow)  ![](https://img.shields.io/static/v1?label=distribution&message=continuous_binomial&color=yellow)  ![](https://img.shields.io/static/v1?label=distribution&message=continuous_trinomial&color=yellow) | 
 | 2      | provide the statistical inference of continuous bernoulli distribution. <br> ![](https://img.shields.io/static/v1?label=statistics&message=sufficient_statistic&color=yellow)  ![](https://img.shields.io/static/v1?label=statistics&message=test_statistic&color=yellow)  ![](https://img.shields.io/static/v1?label=statistics&message=confidence_interval&color=yellow)  ![](https://img.shields.io/static/v1?label=statistics&message=goodness_of_fit&color=yellow)  ![](https://img.shields.io/static/v1?label=statistics&message=point_estimator&color=yellow) ![](https://img.shields.io/static/v1?label=statistics&message=one-way&color=yellow)  | 
 | 3      | the importance of those distributions. They are used in <br>  ![](https://img.shields.io/static/v1?label=application&message=deep_learning&color=9cf)  ![](https://img.shields.io/static/v1?label=application&message=variational_autoencoder&color=9cf)  |
 | 4      | provide free book, computer programs|
