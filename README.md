@@ -16,6 +16,8 @@
 *****
 # book and computer program
 
+[![Join the chat at https://gitter.im/continuous_Bernoulli/community](https://badges.gitter.im/continuous_Bernoulli/community.svg)](https://gitter.im/continuous_Bernoulli/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The programs provide the sufficient statistic, the point estimator, the test statistic, the goodness of fit, the confidence inteval, and one-way analysis of continuous bernoulli distribution. Of course, we extend to **continuous binomial distribution** and **continuous trinomial distribution**.
 
 ## Free book
