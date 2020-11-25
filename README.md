@@ -1,6 +1,6 @@
 ![](https://i.loli.net/2020/11/24/V135WLJrsKMUn8H.jpg)
 
-![](https://img.shields.io/github/forks/meiyulee/continuous_Bernoulli)  ![](https://img.shields.io/github/v/release/meiyulee/continuous_bernoulli?include_prereleases) ![](https://img.shields.io/badge/book-free-green)  ![GitHub search hit counter](https://img.shields.io/github/search/meiyulee/continuous_bernoulli/goto)
+![](https://img.shields.io/badge/book-free-green)  ![](https://img.shields.io/github/v/release/meiyulee/continuous_bernoulli?include_prereleases)  ![GitHub search hit counter](https://img.shields.io/github/search/meiyulee/continuous_bernoulli/goto)  ![GitHub top language](https://img.shields.io/github/languages/top/meiyulee/continuous_Bernoulli)
 
 > Authors: Kuan-Sian Wang; Mei-Yu Lee
 
