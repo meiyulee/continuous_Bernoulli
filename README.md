@@ -64,5 +64,8 @@ The programs contains the simulator of probability distribution(1-4), the statis
 
 ![cb02.gif](https://i.loli.net/2020/11/24/GD6VCT1XWitylxN.gif)
 
+*******
+
+License: Proerietary license
 
 
