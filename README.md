@@ -66,6 +66,6 @@ The programs contains the simulator of probability distribution(1-4), the statis
 
 *******
 
-License: Proerietary license
+License: Proprietary license
 
 
