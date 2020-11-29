@@ -66,6 +66,9 @@ The programs contains the simulator of probability distribution(1-4), the statis
 
 *******
 
+### License
+
 License: Proprietary license
 
+All source codes are free.
 
