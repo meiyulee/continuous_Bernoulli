@@ -33,7 +33,7 @@ The document is **C_bernoulli_software_package.pdf**, and source code of program
 5.Continuous Bernoulli parameter lamda test statistic using input data.
   Please input the data file and H0:lamda=c, c value from console.
  * ----C:\C_Bernoulli\C_Bernoulli_05.exe,
- *     C:\C_Bernoulli\C_Bernoulli_04.
+ *     C:\C_Bernoulli\C_Bernoulli_05.cpp.
 
 6.Continuous Bernoulli parameter lamda confidence interval.
   Please input the data file from console.
