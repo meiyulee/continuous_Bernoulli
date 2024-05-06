@@ -34,4 +34,4 @@ This displayed method can understand $f(x,y)$ diagram changed when the $λ_{1}$ 
 
     Video
 
-    https://github.com/meiyulee/continuous_Bernoulli/blob/master/_videos/Continuous_Bernoulli.mp4
+   ![](https://github.com/meiyulee/continuous_Bernoulli/blob/master/_videos/tinywow_Continuous_Bernoulli_55065283.gif)
