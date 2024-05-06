@@ -26,7 +26,7 @@ This displayed method can understand $f(x,y)$ diagram changed when the $λ_{1}$ 
 1. $X$ ~ Continuous Bernoulli distribution ( $λ$ )
 
 
-    $f(x)=C \times λ^x \times (1-λ)^{1-x}, 0<x<1$ ,
+    $f(x) = C \times \lambda^{x} \times (1 - \lambda)^{1 - x}, 0 < x < 1$ ,
 
     $\int f(x)dx = 1$.
     
