@@ -26,13 +26,13 @@ This displayed method can understand $f(x,y)$ diagram changed when the $λ_{1}$ 
 ## 1. $X$ ~ Continuous Bernoulli distribution ( $λ$ )
 
 
-    $f(x) = C \times λ^{x} \times (1 - λ)^{1 - x}$, $0 < x < 1$ ,
+$f(x) = C \times λ^{x} \times (1 - λ)^{1 - x}$, $0 < x < 1$ ,
 
-    $\int f(x)dx = 1$.
+$\int f(x)dx = 1$.
     
-    Let $λ$ =0.01 to 0.99 \\ and \\ step = 0.01$.
+Let $λ =0.01$ to $0.99$ and step $= 0.01$ .
 
-    Video
+Video
 
    ![](https://github.com/meiyulee/continuous_Bernoulli/blob/master/_videos/tinywow_Continuous_Bernoulli_55065283.gif)
 
@@ -41,7 +41,7 @@ This displayed method can understand $f(x,y)$ diagram changed when the $λ_{1}$ 
 
 ### Case 1
 
-$λ_{1} + λ_{2} = 0.1, λ_{1} = 0.01 to 0.099 and step = 0.001$
+$λ_{1} + λ_{2} = 0.1$ , $λ_{1} = 0.01$ to $0.099$ and step $= 0.001$
 
 Video for case 1
 
