@@ -23,7 +23,7 @@ The $(x,y,f(x,y))$ dynamic diagrams is affected by $λ_{1}$ and setting $λ_{1}+
 
 This displayed method can understand $f(x,y)$ diagram changed when the $λ_{1}$ different value in simply.
 
-1. $X$ ~ Continuous Bernoulli distribution ( $λ$ )
+## 1. $X$ ~ Continuous Bernoulli distribution ( $λ$ )
 
 
     $f(x) = C \times \lambda^{x} \times (1 - \lambda)^{1 - x}, 0 < x < 1$ ,
@@ -35,3 +35,22 @@ This displayed method can understand $f(x,y)$ diagram changed when the $λ_{1}$ 
     Video
 
    ![](https://github.com/meiyulee/continuous_Bernoulli/blob/master/_videos/tinywow_Continuous_Bernoulli_55065283.gif)
+
+
+## 2. $(x,y,f(x,y))$ dynamic diagrams
+
+### Case 1
+
+$λ_{1} + λ_{2} = 0.1, λ_{1} = 0.01 to 0.099 and step = 0.001$
+
+Video for case 1
+
+   ![](https://github.com/meiyulee/continuous_Bernoulli/blob/master/_videos/tinywow_case_1_55066181.gif)
+
+Video for case 1 of X
+
+   ![](https://github.com/meiyulee/continuous_Bernoulli/blob/master/_videos/tinywow_case_1_X_55065886.gif)
+
+Video for case 1 of Y
+
+   ![](https://github.com/meiyulee/continuous_Bernoulli/blob/master/_videos/tinywow_case_1_Y_55066253.gif)
